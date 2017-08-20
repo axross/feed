@@ -1,4 +1,4 @@
-name: feed
+name: sansa
 version: 0.0.0
 dependencies:
   http: 0.11.3+13
